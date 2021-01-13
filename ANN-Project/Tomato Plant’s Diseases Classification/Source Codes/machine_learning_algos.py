@@ -9,7 +9,7 @@ from sklearn import svm
 import seaborn as sn
 
 
-data_path = "C:\\Users\\Mehmet\\Desktop\\yeniANN"
+data_path = "C:\\Users\\berkta\\Desktop\\yeniANN"
 
 # Initialize the dataset and dataloader
 traindataset = CustomDataset(data_path = data_path, train = True, val = False)
