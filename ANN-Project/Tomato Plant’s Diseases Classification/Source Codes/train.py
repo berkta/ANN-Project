@@ -17,7 +17,7 @@ import math
 
 batch_size = 32
 max_epoch = 11
-data_path = "C:\\Users\\Mehmet\\Desktop\\yeniANN"
+data_path = "C:\\Users\\berkta\\Desktop\\yeniANN"
 
 # Output files
 netname = "net"
